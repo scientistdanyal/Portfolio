@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yalgar0
+- 👋 Hi, I’m Danyal Ahmed
 - 👀 I’m interested in python, django
 - 🌱 I’m currently learning advanced python
 - 💞️ I’m looking to collaborate on Django projects
